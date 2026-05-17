@@ -7,7 +7,7 @@ import About from './components/About.vue'
 import Accessibility from './components/Accessibility.vue'
 import License from './components/License.vue'
 import Privacy from './components/Privacy.vue'
-import {createRouter, createWebHistory} from "vue-router";
+import {createRouter, createWebHashHistory, createWebHistory} from "vue-router";
 
 
 const routes = [
@@ -20,7 +20,7 @@ const routes = [
 ]
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHashHistory(),
   routes,
 })
 

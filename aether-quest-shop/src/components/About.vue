@@ -45,7 +45,7 @@
             <h3 class="text-xl font-bold text-white mb-2">2. Hörmarke</h3>
             <div class="bg-slate-900 p-4 rounded mb-4 text-center">
               <span class="text-3xl" aria-hidden="true">🎵</span>
-              <audio controls src="/alert.wav" class="mt-4 w-full h-8 rounded-full outline-none focus:ring-2 focus:ring-yellow-400">
+              <audio controls src="alert.wav" class="mt-4 w-full h-8 rounded-full outline-none focus:ring-2 focus:ring-yellow-400">
                 Ihr Browser unterstützt das Audio-Element nicht. Alert-Sound konnte nicht abgespielt werden.
               </audio>
             </div>

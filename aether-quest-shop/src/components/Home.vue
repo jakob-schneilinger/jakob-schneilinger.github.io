@@ -3,11 +3,11 @@ import { ref } from 'vue';
 
 const images = [
   {
-    src: '/desert-ruins-preview.png',
+    src: 'desert-ruins-preview.png',
     alt: 'Vorschau der Wüstenruinen in Aether Quest'
   },
   {
-    src: '/jungle-ruins-preview.png',
+    src: 'jungle-ruins-preview.png',
     alt: 'Vorschau der Dschungelruinen in Aether Quest'
   }
 ];
