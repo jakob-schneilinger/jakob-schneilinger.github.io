@@ -58,7 +58,7 @@
         Unsere Website verwendet sogenannte "Session-Cookies", die für den reibungslosen Ablauf des Webshops (z. B. Speicherung des Warenkorbs oder Authentifizierung) zwingend erforderlich sind. Diese werden nach dem Schließen Ihres Browsers gelöscht.
       </p>
 
-      <h3 class="text-lg font-bold text-indigo-300 mb-2">Analyse-Tools (Gemockt)</h3>
+      <h3 class="text-lg font-bold text-indigo-300 mb-2">Analyse-Tools</h3>
       <p class="text-slate-300">
         Um unser Angebot stetig zu verbessern, nutzen wir eine datenschutzfreundliche Webanalyse-Software (z. B. Matomo), die auf unseren eigenen Servern in der EU gehostet wird. Dabei wird Ihre IP-Adresse umgehend pseudonymisiert. Die Verarbeitung erfolgt nur, wenn Sie uns über unseren (simulierten) Cookie-Banner vorab Ihre ausdrückliche Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) erteilt haben.
       </p>
